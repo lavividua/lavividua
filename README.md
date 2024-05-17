@@ -1,16 +1,16 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💙
 
-<!--
-**lavividua/lavividua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nos somos Lanna e Luana
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entrar em contato comigo 📫
+
+lannavicentin3@gmail.com
+
+luanatasso11@gmail.com
+
+
+![_](https://media1.tenor.com/m/QidN4N3AygwAAAAC/sei-de-nada-n%C3%A3o-sei.gif)
